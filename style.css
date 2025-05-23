@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+video {
+  width: 300px;
+  height: auto;
+  border: 2px solid #333;
+  margin-bottom: 10px;
+}
+
+#captureBtn {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 20px;
+}
+
+#selfie {
+  width: 300px;
+  height: auto;
+  border: 2px solid #333;
+  margin-top: 10px;
+}
